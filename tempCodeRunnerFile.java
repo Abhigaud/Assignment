@@ -1,8 +1,3 @@
-/*
- Q.2. WAP to reverse a String
-	Input: “PWSKILLS”
-	Output: “SLLIKSWP”
- */
 public class june5th3_2 {
     public static void main(String[] args ){
         String sb=new String("PWSKILLS");
