@@ -14,7 +14,4 @@ public class June5th1_2 {
             System.out.println("not palindrome");
         }
     }
-    
-    
-    
 }
